@@ -50,9 +50,4 @@ Run the program by piping it to the drawing app using the following command:
 
 Below is a video showing the robot collecting all the markers from a randomly generated arena.
 
-https://github.com/teo-montero/maze_traversal/edit/main/media/MazeDemonstration.mp4
-
-<video width="600" controls>
-  <source src="[https://github.com/your-username/your-repo/raw/main/video.mp4](https://github.com/teo-montero/maze_traversal/edit/main/media/MazeDemonstration.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/67aa26f3-9a48-4284-8bdc-3c6ee9d753c1
