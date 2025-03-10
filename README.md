@@ -50,4 +50,4 @@ Run the program by piping it to the drawing app using the following command:
 
 Below is a video showing the robot collecting all the markers from a randomly generated arena.
 
-[Watch the video](https://github.com/teo-montero/maze_traversal/edit/main/media/traversal_example.mp4)
+https://github.com/teo-montero/maze_traversal/edit/main/media/traversal_example.mp4
