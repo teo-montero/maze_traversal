@@ -16,10 +16,10 @@ The source code is split into four files by functionality:
     - Freeing of memory
 - robot.c
   - Contains all functionality related to the robot:
-   - Generation of the robot
-   - Robot control
-   - Robot exploration
-   - Freeing of memory
+    - Generation of the robot
+    - Robot control
+    - Robot exploration
+    - Freeing of memory
 - display.c
   - Contains all functionality related to the displaying of the objects using drawapp-4.0.jar:
     - Drawing the maze
